@@ -1,10 +1,10 @@
 torch
 torch_geometric
 networkx
-numpy
-pandas
 scikit-learn
-scipy
+pandas
+numpy
 matplotlib
-pytest
-pyyaml
+seaborn
+tabulate
+nbdime
