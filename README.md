@@ -130,7 +130,7 @@ gnn-airline-link-prediction/
 │   └── airports.graphml
 ├── notebooks/
 │   ├── airline_link_prediction.ipynb
-│   └── notebook_test.ipynb
+│   └── exploration.ipynb
 └── src/
     ├── data.py
     ├── features.py
